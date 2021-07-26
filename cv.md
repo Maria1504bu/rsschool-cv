@@ -4,6 +4,13 @@ Javascript Fronent Developer
 ## Code Example
 ``` Here will be code ```
 
+## TECHNICAL SKILLS:
+- Hyper text markup language (HTML)
+- Cascading style sheets (CSS)
+- Super CSS (SCSS)
+- TypeScript
+- JavaScript
+
 
 ## Contacts
 * Phone: +380 96 105 73 08
